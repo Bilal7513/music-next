@@ -1,3 +1,4 @@
+
 import React from "react";
 import { cn } from "@/lib/utils";
 
@@ -23,7 +24,7 @@ export const Spotlight = ({ className, fill }: SpotlightProps) => {
           cy="273.501"
           rx="1924.71"
           ry="273.501"
-          transform="matrix(-0.722377 -0.85943 -0.8943 0.82377 5200.08 2591.09)"
+          transform="matrix(-0.622377 -0.68943 -0.58943 0.822377 4531.88 2291.09)"
           fill={fill || "white"}
           fillOpacity="0.21"
         ></ellipse>
@@ -33,7 +34,7 @@ export const Spotlight = ({ className, fill }: SpotlightProps) => {
           id="filter"
           x="0.860352"
           y="0.838989"
-          width="5485.16"
+          width="4585.16"
           height="2840.26"
           filterUnits="userSpaceOnUse"
           colorInterpolationFilters="sRGB"
